@@ -16,4 +16,4 @@ const reverseVowels = (str) => {
   }
 }
 
-console.log(reverseVowels('helloijfdea'))
+console.log(reverseVowels('hello'));
